@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_otpscreenimage.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_otpscreenimage.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_loginscreenbg.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_loginscreenbg.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_language.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_language.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_blockedcontact.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_blockedcontact.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_tax.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_tax.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_arrow.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_arrow.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_screenlocks.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_screenlocks.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_9payreward.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_9payreward.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_challan.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_challan.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_metro.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_metro.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_support.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_support.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_about.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_about.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_billnotifications.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_billnotifications.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_arrowimage.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_arrowimage.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_pay.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pay.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_forgotpassword.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_forgotpassword.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_educationfees.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_educationfees.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_cylinder.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_cylinder.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_businessdetails.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_businessdetails.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_menubutton.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_menubutton.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_9paylogo.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_9paylogo.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_200.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_200.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_100.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_100.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_electricitybill.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_electricitybill.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_500.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_500.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_reminder.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_reminder.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_sattelment.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_sattelment.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_changepassword.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_changepassword.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_9paywallet.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_9paywallet.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_adsimage.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_adsimage.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_group.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_group.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_refer.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_refer.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_wallet.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_wallet.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_resetpasswordimage.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_resetpasswordimage.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_languages.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_languages.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_forgotpasswordimage.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_forgotpasswordimage.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_broadband.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_broadband.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_automatic.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_automatic.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_upi.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_upi.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_rupee.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_rupee.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_otpbgimage.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_otpbgimage.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_1000.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_1000.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_pipedgas.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_pipedgas.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_giftcard.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_giftcard.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_profileimage.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_profileimage.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable_rn_edit_text_material.xml.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_logouticon.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_logouticon.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_mobilerecharge.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_mobilerecharge.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_closebutton.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_closebutton.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_union.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_union.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_waterbill.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_waterbill.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_postpaid.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_postpaid.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_loan.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_loan.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_offers.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_offers.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_setting.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_setting.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_resetpassword.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_resetpassword.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_logout.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_logout.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_bank.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_bank.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_bhimupi.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_bhimupi.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_referearn.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_referearn.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_homerent.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_homerent.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_assets_images_autopay.png.flat",
+        "source": "E:\\Coding Related\\9pay\\NinePay\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_images_autopay.png"
+    }
+]
