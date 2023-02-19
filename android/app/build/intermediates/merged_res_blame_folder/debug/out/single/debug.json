@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_profile.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_profile.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_secondmanageattendance.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_secondmanageattendance.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_focusednotification.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_focusednotification.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_search.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_search.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_landscapefp.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_landscapefp.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_teams.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_teams.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_verified.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_verified.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_payrollgreen.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_payrollgreen.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_eyeslash.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_eyeslash.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_companyid.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_companyid.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_createteam.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_createteam.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_icon_user.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_icon_user.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_createholiday.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_createholiday.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_focusereport.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_focusereport.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_removeitem.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_removeitem.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_menubutton.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_menubutton.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_intro_text_box.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_intro_text_box.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_empmanagment.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_empmanagment.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_jobrole.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_jobrole.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_intro_6.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_intro_6.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_organization.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_organization.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_potraitfailed.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_potraitfailed.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_secondprofile.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_secondprofile.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_holiday.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_holiday.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_pending.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_pending.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_assignshift.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_assignshift.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_dropdownicon.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_dropdownicon.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_dayshift.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_dayshift.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_download.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_download.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_viewemployees.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_viewemployees.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_bubbles.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_bubbles.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_payrollwhite.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_payrollwhite.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_home.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_home.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_icon_phone.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_icon_phone.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_calendar.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_calendar.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_leaves.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_leaves.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_jobroles.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_jobroles.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_identity.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_identity.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_menuleft.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_menuleft.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_intro_1.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_intro_1.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_profilephto.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_profilephto.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_assign.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_assign.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_eye.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_eye.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_intro_4.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_intro_4.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_secondmanageproject.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_secondmanageproject.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_holidaysmall.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_holidaysmall.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_backicon.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_backicon.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_notification.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_notification.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_manageemployee.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_manageemployee.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_splashpotrait.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_splashpotrait.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_splashbackground.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_splashbackground.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_payrollmanagment.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_payrollmanagment.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_leaveholiday.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_leaveholiday.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_alert.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_alert.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_account.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_account.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_secondleaveandholiday.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_secondleaveandholiday.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_edith.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_edith.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_done_icon.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_done_icon.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_focuseprofile.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_focuseprofile.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_attendancerprt.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_attendancerprt.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_intro_3.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_intro_3.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_rejected.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_rejected.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_fillter.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_fillter.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_trash.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_trash.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_netclackimage.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_netclackimage.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_focusehome.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_focusehome.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_manageproject.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_manageproject.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_secondsetting.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_secondsetting.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_leftarrow.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_leftarrow.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_failure.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_failure.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_nointernet.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_nointernet.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_portraitsuccess.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_portraitsuccess.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_secondmanageemployee.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_secondmanageemployee.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_menucrossbutton.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_menucrossbutton.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_task.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_task.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_selectdepartment.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_selectdepartment.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_education.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_education.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_iderroricon.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_iderroricon.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_contact.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_contact.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_viewteam.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_viewteam.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_manageattendance.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_manageattendance.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_intro_2.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_intro_2.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_companyiderr.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_companyiderr.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_emergancycontact.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_emergancycontact.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_dob.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_dob.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_attached.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_attached.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_checkboxes.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_checkboxes.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_cancleicon.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_cancleicon.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_person.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_person.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_intro_5.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_intro_5.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_icon_lock.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_icon_lock.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_holidaylist.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_holidaylist.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_attenmanagment.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_attenmanagment.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_createsuccessmesg.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_createsuccessmesg.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_expensemanagment.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_expensemanagment.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_loginbackground.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_loginbackground.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_setting.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_setting.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_edit.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_edit.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_profilephtoj.jpg.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_profilephtoj.jpg"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_createemployee.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_createemployee.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_nightshift.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_nightshift.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable_rn_edit_text_material.xml.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_address.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_address.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_newpasswordbg.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_newpasswordbg.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_breports.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_breports.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_departments.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_departments.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_leaveapplication.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_leaveapplication.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_createjobrole.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_createjobrole.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_logout.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_logout.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/build/intermediates/merged_res/debug/drawable-mdpi_assets_images_profiles.png.flat",
+        "source": "/home/shivam/Documents/Coding Related/Netclack/NetclackAdmin/android/app/src/main/res/drawable-mdpi/assets_images_profiles.png"
+    }
+]
