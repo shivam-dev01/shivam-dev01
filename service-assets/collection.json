@@ -1,0 +1,355 @@
+{
+	"info": {
+		"_postman_id": "4c8fa7b2-443b-4166-b068-906e299bbf6b",
+		"name": "9pay_collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Registration",
+			"item": [
+				{
+					"name": "Registration",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"mobile\": \"9468452231\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}auth/register",
+							"host": [
+								"{{baseUrl}}auth"
+							],
+							"path": [
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Registration Verify OTP",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"sessionId\": \"afe0d8ba-ba96-4062-a56f-a8910007c54d\",\r\n    \"otpValue\": \"969532\",\r\n    \"mobile\": \"9468452231\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}auth/verifyOtp",
+							"host": [
+								"{{baseUrl}}auth"
+							],
+							"path": [
+								"verifyOtp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Set Password",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"sessionId\": \"afe0d8ba-ba96-4062-a56f-a8910007c54d\",\r\n    \"otpValue\": \"969532\",\r\n    \"mobile\": \"9468452231\",\r\n    \"password\": \"123456\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}auth/resetPassword",
+							"host": [
+								"{{baseUrl}}auth"
+							],
+							"path": [
+								"resetPassword"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Login",
+			"item": [
+				{
+					"name": "Upload Captured Image",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"fileName\": \"9468452231\",\r\n    \"fileType\": \"123456\",\r\n    \"base64\": \"222\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}users/captureImageUpload/60fd2d98aad78946b05a4dda",
+							"host": [
+								"{{baseUrl}}users"
+							],
+							"path": [
+								"captureImageUpload",
+								"60fd2d98aad78946b05a4dda"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"mobile\": \"9468452231\",\r\n    \"password\": \"123456\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}auth/login",
+							"host": [
+								"{{baseUrl}}auth"
+							],
+							"path": [
+								"login"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Vault",
+			"item": [
+				{
+					"name": "Generate upload URL",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwZmQyZDk4YWFkNzg5NDZiMDVhNGRkYSIsInJvbGUiOiJ1c2VyIiwibW9iaWxlIjoiOTQ2ODQ1MjIzMSIsImlhdCI6MTYzMTk5NTM3MCwiZXhwIjoxMDI3MTkwODk3MH0.SXesQpfS_SlPVsBRoY_MsgDFJgKvNQd6WUsM_0gN9EQ",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n   \"fileName\": \"generated.pdf\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}vault/uploadUrl",
+							"host": [
+								"{{baseUrl}}vault"
+							],
+							"path": [
+								"uploadUrl"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Generate Download URL",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwZmQyZDk4YWFkNzg5NDZiMDVhNGRkYSIsInJvbGUiOiJ1c2VyIiwibW9iaWxlIjoiOTQ2ODQ1MjIzMSIsImlhdCI6MTYzMTk5NTM3MCwiZXhwIjoxMDI3MTkwODk3MH0.SXesQpfS_SlPVsBRoY_MsgDFJgKvNQd6WUsM_0gN9EQ",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n   \"fileName\": \"60fd2d98aad78946b05a4dda/0fb82299-10ec-4ec1-a1e8-896edf1e0025/generated.pdf\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}vault/downloadUrl",
+							"host": [
+								"{{baseUrl}}vault"
+							],
+							"path": [
+								"downloadUrl"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get User Vault",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwZmQyZDk4YWFkNzg5NDZiMDVhNGRkYSIsInJvbGUiOiJ1c2VyIiwibW9iaWxlIjoiOTQ2ODQ1MjIzMSIsImlhdCI6MTYzMTk5NTM3MCwiZXhwIjoxMDI3MTkwODk3MH0.SXesQpfS_SlPVsBRoY_MsgDFJgKvNQd6WUsM_0gN9EQ",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseUrl}}vault",
+							"host": [
+								"{{baseUrl}}vault"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Recharge Service",
+			"item": [
+				{
+					"name": "Get all reports",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}recharge/get-all-reports?reportType=BILL_PAYMENT&serviceType=Electricity",
+							"host": [
+								"{{baseUrl}}recharge"
+							],
+							"path": [
+								"get-all-reports"
+							],
+							"query": [
+								{
+									"key": "reportType",
+									"value": "BILL_PAYMENT"
+								},
+								{
+									"key": "serviceType",
+									"value": "Electricity"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "localhost:3000/bill-payment",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"billPaymentNumber\":\"123\",\r\n    \"operatorCode\":\"SBEL\",\r\n    \"circleCode\":\"22\",\r\n    \"amount\":\"100\",\r\n    \"landlineCaNumber\":\"123\",\r\n    \"otherValue\":\"abc\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/bill-payment",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"bill-payment"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "bearer"
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

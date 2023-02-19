@@ -1,0 +1,16 @@
+export const Messages = {
+  CIRCLE_FETCHED_MESSAGE: "Circle fetched successfully.",
+  OPERATOR_FETCHED_MESSAGE: "Operator fetched successfully.",
+  REPORT_FETCHED_MESSAGE: "Report fetched successfully.",
+  RECHARGE_STATUS_MESSAGE: "Status fetched successfully.",
+  RECHARGE_SUCCESS_MESSAGE: "Recharge successfully.",
+  BILL_FETCHED_MESSAGE: "Bill fetched successfully.",
+  PLAN_FETCHED_MESSAGE: "Plan fetched successfully.",
+  BILL_PAYMENT_SUCCESS_MESSAGE: "Bill payment done successfully.",
+  BILL_PAYMENT_FAILED_MESSAGE: "Bill payment failed.",
+  BILL_PAYMENT_PENDING_MESSAGE: "Bill payment pending",
+  RECHARGE_STATUS_FAILED_MESSAGE: "Recharge status failed.",
+  RECHARGE_FAILED_MESSAGE: "Recharge failed.",
+  RECHARGE_PENDING_MESSAGE: "Recharge pending.",
+  RECHARGE_TRANSACTION_NOT_FOUND_MESSAGE: "Transaction number not exist.",
+};

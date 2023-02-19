@@ -1,0 +1,144 @@
+http:
+  port: 8082
+admin:
+  port: 9876
+  host: localhost
+apiEndpoints:
+  api:
+    host: localhost
+    paths: "/ip"
+  vault:
+    host: "*"
+    paths: ["/vault", "/vault/*"]
+  auth:
+    host: "*"
+    paths: ["/auth", "/auth/*"]
+  recharge:
+    host: "*"
+    paths: ["/recharge", "/recharge/*"]
+  wallet:
+    host: "*"
+    paths: ["/wallet", "/wallet/*"]
+
+serviceEndpoints:
+  httpbin:
+    url: "https://httpbin.org"
+  vaultService:
+    url: "http://localhost:3011/v1/"
+  authService:
+    url: "http://localhost:3011/v1/"
+  rechargeService:
+    url: "http://localhost:3010/"
+  walletService:
+    url: "http://localhost:3012/"
+policies:
+  - proxy
+  - jwt
+  - request-transformer
+  - cors
+
+pipelines:
+  default:
+    apiEndpoints:
+      - api
+    policies:
+      # Uncomment `key-auth:` when instructed to in the Getting Started guide.
+      # - key-auth:
+      - proxy:
+          - action:
+              serviceEndpoint: httpbin
+              changeOrigin: true
+
+  vaultPipeline:
+    apiEndpoints:
+      - vault
+    policies:
+      # Uncomment `key-auth:` when instructed to in the Getting Started guide.
+      # - key-auth:
+
+      - jwt:
+          action:
+            secretOrPublicKey: "deepak_hce@2321@212121212121@deepak_hce"
+            checkCredentialExistence: false
+
+      - request-transformer:
+          action:
+            body:
+              add:
+                user: req.user
+
+      - proxy:
+          - action:
+              serviceEndpoint: vaultService
+              changeOrigin: true
+
+  rechargePipeline:
+    apiEndpoints:
+      - recharge
+    policies:
+      # Uncomment `key-auth:` when instructed to in the Getting Started guide.
+      # - key-auth:
+
+      - cors:
+          action:
+            origin: "*"
+            methods: "HEAD,GET,PUT,PATCH,POST,DELETE"
+            preflightContinue: false
+            optionsSuccessStatus: 204
+
+      - jwt:
+          action:
+            secretOrPublicKey: "deepak_hce@2321@212121212121@deepak_hce"
+            checkCredentialExistence: false
+
+      - request-transformer:
+          action:
+            body:
+              add:
+                user: req.user
+
+      - proxy:
+          - action:
+              serviceEndpoint: rechargeService
+              changeOrigin: true
+
+  walletPipeline:
+    apiEndpoints:
+      - wallet
+    policies:
+      # Uncomment `key-auth:` when instructed to in the Getting Started guide.
+      # - key-auth:
+
+      - cors:
+          action:
+            origin: "*"
+            methods: "HEAD,GET,PUT,PATCH,POST,DELETE"
+            preflightContinue: false
+            optionsSuccessStatus: 204
+
+      - jwt:
+          action:
+            secretOrPublicKey: "deepak_hce@2321@212121212121@deepak_hce"
+            checkCredentialExistence: false
+
+      - request-transformer:
+          action:
+            body:
+              add:
+                user: req.user
+
+      - proxy:
+          - action:
+              serviceEndpoint: walletService
+              changeOrigin: true
+
+  authPipeline:
+    apiEndpoints:
+      - auth
+    policies:
+      # Uncomment `key-auth:` when instructed to in the Getting Started guide.
+      # - key-auth:
+      - proxy:
+          - action:
+              serviceEndpoint: authService
+              changeOrigin: true

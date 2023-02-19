@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: recharge-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: recharge-service
+  template:
+    metadata:
+      labels:
+        app: recharge-service
+    spec:
+      containers:
+        - name: recharge-service
+          image: recharge-service-image
+          imagePullPolicy: Never
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: recharge-clusterip-srv
+spec:
+  selector:
+    app: recharge-service
+  ports:
+    - name: recharge
+      protocol: TCP
+      port: 4000
+      targetPort: 3010

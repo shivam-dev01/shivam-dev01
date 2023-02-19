@@ -1,0 +1,29 @@
+{
+  "name": "9pay_microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve:gateway": "npm i --prefix gateway && npm start --prefix gateway",
+    "serve:recharge": "npm i --prefix recharge-service  && npm run serve --prefix recharge-service",
+    "serve:auth": "npm i --prefix  auth-service --legacy-peer-deps && npm run start:dev --prefix auth-service",
+    "serve:wallet": "npm i --prefix wallet-service && npm run serve --prefix wallet-service",
+    "build": "npm i --prefix gateway && npm i --prefix recharge-service && npm run build --prefix recharge-service && npm i --force --prefix auth-service  && npm run build --prefix auth-service && npm i --prefix wallet-service && npm run build --prefix wallet-service",
+    "deploy:start": "pm2 start gateway/server.js --name gateway && pm2 start auth-service/dist/main.js --name auth-service && pm2 start wallet-service/dist/index.js --name wallet-service && pm2 start recharge-service/dist/index.js --name recharge-service"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/9TAB/9pay_microservices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/9TAB/9pay_microservices/issues"
+  },
+  "homepage": "https://gitlab.com/9TAB/9pay_microservices#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}

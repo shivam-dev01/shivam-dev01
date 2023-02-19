@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: recharge-service
+spec:
+  containers:
+    - name: recharge-service
+      image: recharge-service-image:0.0.1

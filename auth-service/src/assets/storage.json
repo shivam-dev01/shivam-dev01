@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "learning-c6e19",
+  "private_key_id": "d57a4c57aded677bbfad1b8871497940b5fc6c3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxUgbiJ9m8FmiU\nG6BRsKIv5qT9NrZS8fVTDXbNxWW4SRCA3kT6KBRDsNRs6+BrtlUYXtDyrSb3xdiE\nnJZACb3sDew1Gpb5oxDA+cUSdNPpax5aN6q7oMteOusp7OGd5v3oNEfM9jcSi9L+\nedB+BX9tyRzOAN3MugLZQNwd1EafVe9YYIoQNN9QqABJzDUF3rRGhlPBzZGiahcg\n69mn/hrK3is4Yrgq9OUNkirew+Iyxi0hSc81pnxBGe1RCCHnfN4KVi5n5XEn//IM\nYnr9W2N5XD3wFau+P9RSHZOiEixHpurybRMOfArEONGhblw5/BMucD0dJJyQIXYw\nWgo+YmbXAgMBAAECggEAOeWdDsHRQ6sTaWydy55/TmGiNHVlUa7kGcKXLHfMD0B4\nDYPFhOKKP1HhAlGAHNtTbJok4l/sDdHBMQeJvY4Qv58KJYqxigAWy9Oh57VSre/G\nYNG1Qv8s9+8H8tAAGNUfyW4slX09HSafdWyjyUoVQez9JTw+L4b6wCH/3RN/Ha3e\nPy3BHTssBMJQ9WGM680AsTSuNgjxCq0MZYw9GFsCkCzcO34PvSn+CRJtawNFS+ps\nqvOZsFDo+qTn7MuGJsQzH3lMdav4vRFa09lZ6Uy9bc2Jr1AuGtlFODJ+HjV8MTNZ\nLEcF/VnRWolFAVYg9j+PJ826j4pydJCHn4z/QNrTHQKBgQD3c3Sq+FopGQsx1BK5\nopKpLTvOEc2hbyikg3r5UqsrddkyTUAAZU6DA6ulq+NNymmoeGjbCXA75fGMKIY6\nPO308cCKVvt3CjZ8PW9oQLH9xmL3YZcg78Tj3J4tgubIA4DjIwaOrQcSJ6JTos8L\nHE4UvocoGq+N8xU0+fAs+IYBrQKBgQC3ck+7nyhYfADriOC/l+Opi9lD4st1rNI8\nDGydmBKjZdjQ+vKiS4Mi4HiyJvKLjW76EIVamtSxHfK17EKVQKQ+IVSslBN9xInY\nhDSnW27SSnelTxh4kuvx/Z2E5TSQFgwBaggg1AuSFivFi/mVYwmcds2FF4x5wIaS\npZam4gBDEwKBgQDPcXXkApGrFHijDDOqdhTXSLlzNs+ZP1PmHudP7rLam1A68DHw\nYv1frgsOtzu2MjNDbbYRsibpwAowQqTMW9ns12JfVy42jFRC8UndLydIJTFATArj\nLL51e7ULWEracL1zLSDJKVrdKGbYEIvbt53pnBQ4Va7IpHkp0UI8oRfOfQKBgAW1\n0TWN5ruaYIz0XcqY98U3TTQHwz2Oe5zS5i6hpTLg4LbgmNzkbNiRFDC3daVSabnu\n+bewSh6ZSAzRpeDvei1U7EXS9ihcDc5njxwGhJSXLNJAfAqEyENoGZcha1lw1j7V\nBhu/ffy2I/aqPMKhqpLsP8l8yiqgC5BVBzN6pXdxAoGBALeLJVixDLx4OOKLlFy0\n01BRCFlHvH97Wq4MCKVe6D0gvivvTWpRPkvQRDBQRtsbmJei0ebG/S2FN5yQEyAu\n67wVwL5UhqMcYkdgbLbhpR0TKcgEGty8FczkHX5myrnhX3JmoxXZP6jnpOyTHMyf\nmH5Ip7/g/WDWfL38WN1Rppv6\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket-service@learning-c6e19.iam.gserviceaccount.com",
+  "client_id": "111508934414648052571",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket-service%40learning-c6e19.iam.gserviceaccount.com"
+}
