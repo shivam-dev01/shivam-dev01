@@ -1,0 +1,23 @@
+export const apiEndpoints = {
+  LOGIN: 'auth/login',
+  REGISTRATION: 'auth/register',
+  VERIFY_OTP: 'auth/verifyOtp',
+  SET_PASSWORD: 'auth/resetPassword',
+  FORGOT_PASSWORD: 'auth/forget-password',
+  DO_RECHAREGE: 'recharge/do-recharge',
+  FETCH_CIRCLE: 'recharge/fetch-circle',
+  FETCH_OPERATORE: 'recharge/fetch-operator?serviceType=Prepaid-Mobile',
+  RECHARGE_PLAN_FETCH: 'recharge/plan-fetch',
+  WALLET_BALANCE: 'wallet/get-wallet',
+  FETCH_GAS_OPERATORE: 'recharge/fetch-operator?serviceType=Gas%20Cylinder',
+  FETCH_FIELD: 'recharge/bill-fetch-fields',
+  FETCH_BILL: 'recharge/bill-fetch',
+  BILL_PAYMENT: 'recharge/bill-payment',
+  FETCH_LOAN_OPERATORE: 'recharge/fetch-operator?serviceType=Loan%20Repayment',
+  FETCH_ELECTRICITY_OPERATORE:
+    'recharge/fetch-operator?serviceType=Electricity',
+  ADD_MONEY: 'wallet/generate-payment-id',
+  VERIFY_PAYMENT: 'wallet/verify-payment',
+  WALLET_REPORTS: 'wallet/reports',
+  FETCH_BROADBAND_OPERATORE: 'recharge/fetch-operator?serviceType=Broadband',
+};
