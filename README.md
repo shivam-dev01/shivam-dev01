@@ -13,6 +13,7 @@ AI/ML solutions, MERN stack applications, computer-vision tools, and cloud-to-ed
 
 ## 📫 How to reach me
 **Email:** shivam_dev@outlook.com
+
 **LinkedIn:** https://www.linkedin.com/in/shivam-lin/
 
 <!---
